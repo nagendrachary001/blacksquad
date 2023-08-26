@@ -1,0 +1,16 @@
+
+.text{
+text-align:left;
+
+}
+.total{
+float:right;
+}
+body{
+background-image:url("hulk1.jpg");
+background-size:cover;
+}
+.insta{
+width:50%;
+}
+

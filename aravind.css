@@ -1,0 +1,14 @@
+.text{
+text-align:left;
+
+}
+.total{
+float:right;
+}
+body{
+background-image:url("ironman.jpg");
+background-size:cover;
+}
+.insta{
+width:50%;
+}
